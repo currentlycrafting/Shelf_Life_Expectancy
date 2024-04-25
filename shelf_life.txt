@@ -1,0 +1,57 @@
+Baking & Cooking:
+Pancake mix: 365
+Brownie mix: 420
+Cake mix: 420
+Baking powder: 300
+Cornmeal: 420
+Flour: 180
+Frosting: 300
+Sugar: 365
+Spices: 390
+
+Dairy & Eggs:
+Milk: 7
+Yogurt: 14
+Cheese: 21
+Eggs: 21
+
+Meat & Seafood:
+Chicken: 2
+Beef: 3
+Pork: 3
+Fish: 2
+Shellfish: 1
+
+Fruits & Vegetables:
+Apples: 14
+Bananas: 3
+Oranges: 14
+Lettuce: 7
+Carrots: 14
+Potatoes: 21
+Onions: 21
+Tomatoes: 7
+Berries: 3
+
+Grains:
+Rice: 3650
+Pasta: 3650
+Lentils: 365
+Quinoa: 730
+Oats: 365
+Bread: 5
+
+Canned & Packaged Foods:
+Canned Soup: 730
+Canned Vegetables: 730
+Canned Beans: 730
+Canned Tomatoes: 730
+Packaged Snacks: 30
+
+Condiments & Sauces:
+Ketchup: 90
+Mustard: 90
+Mayonnaise: 60
+Soy Sauce: 365
+Hot Sauce: 365
+BBQ Sauce: 365
